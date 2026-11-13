@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: card-account-rewards-service
+  profiles:
+    default: dev
+
+server:
+  port: 8080
